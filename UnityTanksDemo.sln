@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTanksDemo", "UnityTanksDemo.csproj", "{21D3FFC0-CDF6-617D-E137-CC147A294641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTanksDemo.Editor", "UnityTanksDemo.Editor.csproj", "{D6EC1078-6AC1-E118-9AA6-92E3A565FFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D3FFC0-CDF6-617D-E137-CC147A294641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D3FFC0-CDF6-617D-E137-CC147A294641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D3FFC0-CDF6-617D-E137-CC147A294641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D3FFC0-CDF6-617D-E137-CC147A294641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EC1078-6AC1-E118-9AA6-92E3A565FFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EC1078-6AC1-E118-9AA6-92E3A565FFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EC1078-6AC1-E118-9AA6-92E3A565FFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EC1078-6AC1-E118-9AA6-92E3A565FFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
